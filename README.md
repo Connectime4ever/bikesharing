@@ -21,6 +21,7 @@ Females and males show similar pattern of timing-day of the week peaks though in
 Thursdays seems to be the busiest day of all.
 
 ![D25](https://github.com/Connectime4ever/bikesharing/blob/main/D25.png)
+![D29](https://github.com/Connectime4ever/bikesharing/blob/main/D29.png)
 ![D26](https://github.com/Connectime4ever/bikesharing/blob/main/D26.png)
 ![D27](https://github.com/Connectime4ever/bikesharing/blob/main/D27.png)
 ![D28](https://github.com/Connectime4ever/bikesharing/blob/main/D28.png)
@@ -29,7 +30,6 @@ Thursdays seems to be the busiest day of all.
 ## Summary
 Story 
 ![D31](https://github.com/Connectime4ever/bikesharing/blob/main/D31.png)
-![D29](https://github.com/Connectime4ever/bikesharing/blob/main/D29.png)
 ![D32](https://github.com/Connectime4ever/bikesharing/blob/main/D32.png)
 ![D33](https://github.com/Connectime4ever/bikesharing/blob/main/D33.png)
 ![D34](https://github.com/Connectime4ever/bikesharing/blob/main/D34.png)
