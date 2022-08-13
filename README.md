@@ -8,7 +8,7 @@
 ![D11](https://github.com/Connectime4ever/bikesharing/blob/main/D11.png)
 
 
-
+![D29](https://github.com/Connectime4ever/bikesharing/blob/main/D29.png)
 ![D21](https://github.com/Connectime4ever/bikesharing/blob/main/D21.png)
 ![D22](https://github.com/Connectime4ever/bikesharing/blob/main/D22.png)
 ![D23](https://github.com/Connectime4ever/bikesharing/blob/main/D23.png)
@@ -31,4 +31,5 @@ Story
 ![D31](https://github.com/Connectime4ever/bikesharing/blob/main/D31.png)
 ![D32](https://github.com/Connectime4ever/bikesharing/blob/main/D32.png)
 ![D33](https://github.com/Connectime4ever/bikesharing/blob/main/D33.png)
+![D34](https://github.com/Connectime4ever/bikesharing/blob/main/D34.png)
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis. 
