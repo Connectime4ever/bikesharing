@@ -5,7 +5,7 @@
 #### Tableau is the visualization tool used to perform the analysis, and additionaly a Tableau story was also requested.  
 
 ## Results
-
+![D11](https://github.com/Connectime4ever/bikesharing/blob/main/D24.png)
 
 ![D24](https://github.com/Connectime4ever/bikesharing/blob/main/D24.png)
 Looking at trips by gender performance, males show the highest everyday-trip count. 
