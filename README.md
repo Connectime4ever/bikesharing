@@ -47,5 +47,5 @@ It seems the highest peaks in August are recorded at 5pm, 6pm and 8am.
 
 #### Visualizations suggested for future analysis. 
 + This visualization below gives a quick and straighforward picture of the most frequent trip durations. Using Tableau features it could be seen very easily that the most frequent trip durations are between 3 and 11 minutes and that more than 1 million trips are comprised in this timing range, a 49% of the total trips.  
-![D35](https://github.com/Connectime4ever/bikesharing/blob/main/D35.png)
+![D36](https://github.com/Connectime4ever/bikesharing/blob/main/D36.png)
 + Looking at bike use and maintenance needs portion, it might be helpful to group the bikes (bikes Id) based on a classification (bins), so a visualization could be done following that criteria.  For example: heavy use (need maintenance), moderate use, etc. based on number of trips weighted by trip duration.  The data could be group in jupyter notebook before it is loaded in Tableau. 
